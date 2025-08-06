@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
-![Netflix_logo]()
+![Netflix_logo](https://github.com/ashlesha-tech/netflix_sql_project1/blob/main/netflix%20logo.jpg)
 
 ## Objectives
 
@@ -14,6 +14,7 @@
   The data for this project is sourced from the kaggel datset:
 
   - **Dataset Link:**[Movies_Dataset](https://www.kaggle.com/datasets/utkarshx27/movies-dataset)
+
 
 
 
